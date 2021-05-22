@@ -1,0 +1,9 @@
+## Interface: 20501
+## Title: AutoPleb
+## Author: Throck Morton
+## Notes: A helpful addon for spitting on spendies
+## Version: 0.0.1
+## RequiredDeps:
+## SavedVariables: family, poggers
+
+AutoPleb.lua
