@@ -1,7 +1,7 @@
 # autoPleb
 A helpful WoW Classic addon for spitting on spendies
 
-Unzip in your _classic_/Interface/AddOns directory.
+Unzip in your /Interface/AddOns directory.
 
 Working only with TBC Classic (for now).
 
