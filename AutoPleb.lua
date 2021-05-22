@@ -19,7 +19,7 @@ function CheckForSpendy(poggers,family)
         if not poggers then
             if family then
                 PlaySound(soundFile)
-                local message = "spits on %t and their mother, father, elders, pet fish, crypto daddy, step-dog, girlfriend, boyfriend, partner of unspecified gender, and their mount."
+                local message = "spits on %t and their mother, father, elders, pet fish, crypto daddy, step-dog, partner of unspecified gender, and their mount."
         
                 SendChatMessage(message, "EMOTE")
                     -- print(familyMember)
